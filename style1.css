@@ -1,0 +1,81 @@
+
+*{
+    position: relative;
+    /* box-sizing: border-box; */
+}  
+img
+{
+    vertical-align: middle;
+    border: 0;
+}
+
+
+.title_fonts{
+    text-align: center;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 40px;
+}
+.sub_headings
+{
+    text-align: center;
+    color: brown;
+     text-align: center; 
+    margin-left: 18%;
+}
+
+
+ .Details
+{
+    background-color: whitesmoke;
+    border: 40px solid rgb(247, 243, 243);
+    border-radius: 20px;
+    margin: 100px;
+} 
+
+input
+{
+    width: 60%;
+    height: 30px;
+    margin: 20px;
+    text-align: center;
+    width: 40%;
+}
+
+select{
+    width: 60%;
+    height: 35px;
+    text-align: center;
+    margin: 10px;
+    width: 40%;
+    font-size: medium;
+}
+
+
+label{
+        font-size: large; 
+        margin-top: 20px;
+        float: left;
+        margin-left: 10%;
+        width: 150px;
+        text-align: left;
+}
+
+.headings{
+    text-align: center;
+}
+
+h1{
+    color: red; 
+    background-color: rgb(247, 243, 243);
+    border-radius: 10px;
+
+}
+
+#submit{
+    align-items: center;
+    text-align: center;
+    height: 50px;
+    width: 100px;
+
+}
